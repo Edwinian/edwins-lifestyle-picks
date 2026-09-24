@@ -139,6 +139,14 @@ footer {
     margin-top: 2rem;
 }
 
+footer p + p {
+    margin-top: 0.5rem;
+}
+
+footer a {
+    color: #fff;
+}
+
 .policy-title {
     margin-top: 1rem;
 }
